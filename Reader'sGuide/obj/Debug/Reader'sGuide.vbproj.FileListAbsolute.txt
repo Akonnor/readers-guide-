@@ -1,0 +1,14 @@
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\bin\Debug\Reader'sGuide.exe.config
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\bin\Debug\Reader'sGuide.exe
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\bin\Debug\Reader'sGuide.pdb
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\bin\Debug\Reader'sGuide.xml
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\obj\Debug\Reader'sGuide.vbproj.GenerateResource.cache
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\obj\Debug\Reader'sGuide.vbproj.CoreCompileInputs.cache
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\obj\Debug\Reader'sGuide.exe
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\obj\Debug\Reader'sGuide.xml
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\obj\Debug\Reader'sGuide.pdb
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\obj\Debug\Reader'sGuide.vbprojAssemblyReference.cache
+C:\Users\Offei Akonnor\Desktop\Reader'sGuide\Reader'sGuide\obj\Debug\WindowsApp1.Form3.resources
